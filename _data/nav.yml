@@ -1,0 +1,28 @@
+main_nav:
+  - label: About
+    link: /about/
+  - label: Pilot Projects
+    link: /projects/
+  - label: Publications
+    link: /publications/
+  - label: Reseach
+    link: /research/
+  - label: Events
+    link: /events/
+  - label: Contact
+    link: /contact/
+  - label: Blogs
+    link: /blogs/
+footer_nav:
+  - label: About
+    link: /about/
+top_bar:
+  image: /assets/images/DATA_Logo_Primary_Colour_Light.png
+  link: https://datatrusts.uk/
+  top_bar_nav:
+    - link: https://www.cam.ac.uk/about-the-university#study-at-cambridge
+      label: Study at Cambridge
+    - link: https://www.cam.ac.uk/about-the-university#about-the-university
+      label: About the University
+    - link: https://www.cam.ac.uk/research/
+      label: Research at Cambridge

@@ -1,0 +1,60 @@
+hero:
+  title: About Us
+body: |
+  <h4 style="white-space:pre-wrap;">The Data Trusts Initiative </h4><p
+  class="" style="white-space:pre-wrap;">Our interactions in the
+  workplace, at home or with public services are increasingly mediated
+  by digital technologies. These technologies have great potential to
+  boost economic growth and enhance our wellbeing, but these novel
+  patterns of data use can also leave us vulnerable in new
+  ways.&nbsp;</p><p class="" style="white-space:pre-wrap;">Existing
+  laws already provide a variety of data rights, but exercising them
+  can demand considerable knowledge, time, and energy. These
+  legislative frameworks also struggle to cope with a data environment
+  where data can be used and re-used in different ways. These changing
+  patterns of data use put pressure on our traditional forms of data
+  governance.&nbsp;</p><p class=""
+  style="white-space:pre-wrap;">Reaping the benefits of data and
+  digital technologies will require robust new institutions or
+  frameworks that can allow data sharing - helping develop new
+  data-enabled products and services - while protecting individual
+  rights and freedoms. Data trusts offer a mechanism to achieve this
+  goal.&nbsp;</p><p class="" style="white-space:pre-wrap;">A data
+  trust is a mechanism for individuals to take the data rights that
+  are set out in law and pool these into an organisation - a trust -
+  in which trustees make decisions about data use on their
+  behalf. These trusts have received widespread attention in recent
+  years from policymakers across the world. Further action is now
+  needed to identify how data trusts could help tackle real-world data
+  governance challenges and clarify the legal frameworks that can
+  underpin this work.</p><p class=""
+  style="white-space:pre-wrap;">Supported by a donation from the <a
+  href="https://www.mcgovern.org">Patrick J McGovern Foundation</a>,
+  the Data Trusts Initiative will fund research and engagement
+  activities at the interface of technology, policy and the law. By
+  building a community of researchers and social entrepreneurs, the
+  Initiative will shift discussions about data trusts from principle
+  to practice.&nbsp;</p><p class="" style="white-space:pre-wrap;">The
+  Initiative is hosted by the University of Cambridge’s <a
+  href="">Department
+  of Computer Science and Technology</a> and organised in
+  collaboration with the <a
+  href="">University of
+  Birmingham</a>.</p><p class="" data-rte-preserve-empty="true"
+  style="white-space:pre-wrap;"></p>
+partners:
+  - link: https://www.cst.cam.ac.uk/news/new-data-trusts-initiative-will-spearhead-community-focused-data-governance
+    image: /assets/images/university-of-cambridge.png
+  - image: /assets/images/
+    link: https://www.birmingham.ac.uk/index.aspx
+  - image: /assets/images/pjmf.png
+    link: https://www.mcgovern.org
+grid:
+  - title: Our Research
+    description: 
+    link: /research/
+    image: /assets/images/nasa-q1p7bh3shj8-unsplash.jpg
+  - description: 
+    title: Our People
+    image: /assets/images/mike-kononov-lfv0v3_2h6s-unsplash.jpg
+    link: /people/

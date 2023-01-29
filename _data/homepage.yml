@@ -1,0 +1,24 @@
+title: The Data Trusts Initiative
+subtitle: Taking data trusts from theory to practice
+content: Data trusts can offer a vehicle for individuals or groups to choose how they want data that is about them to be used. The Data Trusts Initiative works at the interface of technology, policy and the law to create data trusts that can empower individuals and communities, while supporting data use for social benefit. 
+publications:
+  title: Publications
+  heading: Understanding data trusts and data stewardship
+  content: Our work on the foundations and applications of data trusts explores what data trusts are and what role they play in data stewardship.
+  image: /assets/images/unsplash-image-npxXWgQ33ZQ.jpg
+  link_label: Read our recent publications
+  link_url: /publications/
+research:
+  title: Research
+  heading: Advancing research and innovation
+  content: Research projects funded by the Data Trusts initiative  are investigating how the ideas behind data trusts can be put into practice. 
+  image: /assets/images/unsplash-image-ETRPjvb0KM0.jpg
+  link_label: Find out more about our research
+  link_url: /research/
+projects:
+  title: Pilot Projects
+  heading: Supporting Data Trust Pioneers
+  content: Our data trust pilot programme provides support and funding for data trust pioneers who are creating real-world data trust projects.
+  image: /assets/images/unsplash-image-kI1iR7l55FM.jpg
+  link_label: Read about the supported pilots
+  link_url: /research/

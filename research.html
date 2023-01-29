@@ -1,0 +1,70 @@
+---
+layout: page
+title: Research Projects
+permalink: /research/
+---
+
+<section class="block block__hero block__hero--standard">
+  <div class="container">
+    {% include top-row-logo-and-menu.html %}
+    {% include second-row-nav.html title=page.title %}
+  </div>
+</section>
+<section class="block block__research">
+  The Data Trusts Initiative is funding research projects at the intersection of theory and practice to understand how to operationalise data trusts. Explore our current portfolio here.
+    <div class="container">
+        {% assign flip = false %}
+        {% for project in site.research %}
+            <div class="research__item {% if flip == true %}research__item--flipped{% endif %}">
+                {% if flip == true %}
+
+                    <div class="research__item-image">
+                        <img src="{{site.data.images.directory | relative_url }}/{{project.featured_image}}" alt="Image of {{project.title}}">
+                    </div>
+                    <div class="research__item-details">
+                        <div>
+                            <div class="section-heading section-heading--large">
+                                <h2>{{ project.title }}</h2>
+                                <span></span>
+                            </div>
+                            <p>{{ project.excerpt }}</p>
+                        </div>
+                        <a class="button" href="{{ project.url }}">
+                            Read More
+                            <span class="dot dot--top-left"></span>
+                            <span class="dot dot--top-right"></span>
+                            <span class="dot dot--bottom-left"></span>
+                            <span class="dot dot--bottom-right"></span>
+                        </a>
+                    </div>
+                {% else %}
+                    <div class="research__item-details">
+                        <div>
+                            <div class="section-heading section-heading--large">
+                                <h2>{{ project.title }}</h2>
+                                <span></span>
+                            </div>
+                            <p>{{ project.excerpt }}</p>
+                        </div>
+                        <a class="button" href="{{ project.url }}">
+                            Read More
+                            <span class="dot dot--top-left"></span>
+                            <span class="dot dot--top-right"></span>
+                            <span class="dot dot--bottom-left"></span>
+                            <span class="dot dot--bottom-right"></span>
+                        </a>
+                    </div>
+                    <div class="research__item-image">
+                        <img src="{{site.data.images.directory | relative_url }}/{{project.featured_image}}" alt="Image of {{project.title}}">
+                    </div>
+                {% endif %}
+            </div>
+
+            {% if flip == true %}
+                {% assign flip = false %}
+            {% else %}
+                {% assign flip = true %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
