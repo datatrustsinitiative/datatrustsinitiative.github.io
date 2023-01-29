@@ -1,0 +1,72 @@
+---
+layout: standard
+title: Contact Us
+permalink: /contact/
+---
+
+
+<section class="block block__contact">
+    <div class="container">
+        <div class="contact__details">
+            <div class="contact__details-content">
+                <div class="section-heading section-heading--large section-heading--altfont">
+                    <h2>Contact Details</h2>
+                    <span></span>
+                </div>
+                <div class="contact__details-address">
+                    {{ site.data.site.contact_details.address | markdownify }}
+                </div>
+                <a class="contact__details-tel" href="tel:{{ site.data.site.contact_details.tel }}">Tel:
+                    {{ site.data.site.contact_details.tel }}
+                </a>
+                <a class="contact__details-fax" href="tel:{{ site.data.site.contact_details.fax }}">Fax:
+                    {{ site.data.site.contact_details.fax }}
+                </a>
+                <a class="contact__details-email" href="mailto:{{ site.data.site.contact_details.email }}">Contact:
+                    {{ site.data.site.contact_details.email }}
+                </a>
+            </div>
+            <div class="contact__details-image">
+                <img alt="" src="{{ site.data.contact.contact_details.image }}">
+            </div>
+        </div>
+        <div class="contact__form">
+            <form data-netlify="true" method="POST" name="contact"> 
+                <div class="form-field--half">
+                    <label>Name*
+                        <input name="name" type="text" required/>
+                    </label>
+                </div>
+                <div class="form-field--half">
+                    <label>Email*
+                        <input name="email" type="email" required/>
+                    </label>
+                </div>
+                <div class="form-field--half">
+                    <label>Phone Number
+                        <input name="number" type="number"/></label>
+                    </label>
+                </div>
+                <div class="form-field--half">
+                    <label>Reason for enquiry*
+                        <input name="reason" type="text" required/></label>
+                    </label>
+                </div>
+                <div class="form-field--full">
+                    <label>Message
+                        <textarea name="message" required></textarea>
+                    </label>
+                </div>
+                <div class="form-field--full">
+                    <button class="button" type="submit">
+                        Send Message
+                        <span class="dot dot--top-left"></span>
+                        <span class="dot dot--top-right"></span>
+                        <span class="dot dot--bottom-left"></span>
+                        <span class="dot dot--bottom-right"></span>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
