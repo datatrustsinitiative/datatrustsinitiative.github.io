@@ -3,7 +3,7 @@ layout: article
 title: "What regulation for data trusts should look like"
 abstract: |
   Data trusts are a promising concept for enabling data use while maintaining data privacy. Data trusts can pursue many goals, such as increasing the participation of consumers or other data subjects, putting data protection into practice more effectively, or strengthening data sharing along the value chain. They have the potential to become an alternative model to the large platforms, which are accused of accumulating data power and using it primarily for their own purposes rather than for the benefit of their users. To fulfill these hopes, data trusts must be trustworthy so that their users understand and trust that data is being used in their interest.
-
+  
   It is an important step that policymakers have recognized the potential of data trusts. This should be followed by measures that address specific risks and thus promote trust in the services. Currently, the political approach is to subject all forms of data trusts to the same rules through “one size fits all” regulation. This is the case, for example, with the Data Governance Act (DGA), which gives data trusts little leeway to evolve in the marketplace.
 
   To encourage the development of data trusts, it makes sense to broadly define them as all organizations that manage data on behalf of others while adhering to a legal framework (including competition, trade secrets, and privacy). Which additional rules are necessary to ensure trustworthiness should be decided depending on the use case. The risk of a use case should be considered as well as the need for incentives to act as a data trust.

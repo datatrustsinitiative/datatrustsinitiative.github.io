@@ -1,0 +1,30 @@
+---
+layout: standard
+title: Projects
+permalink: /projects/
+---
+
+<section class="block block__projects">
+    <div class="container">
+        <div class="section-heading">
+            <h2>Projects</h2>
+            <span></span>
+        </div>
+        <div class="projects__grid">
+            {% for item in site.projects %}
+                <a href="{{ item.url }}" class="projects__item">
+                    <div class="projects__item-image">
+                        <img src="{{site.data.images.directory | relative_url }}/{{item.featured_image}}" alt="Image of {{item.title}}">
+                    </div>
+                    <div class="projects__item-details">
+                        <div>
+                            <h2>{{ item.title }}</h2>
+                            <p>{{ item.excerpt }}</p>
+                        </div>
+                        <span>View Details</span>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
