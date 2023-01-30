@@ -35,15 +35,9 @@ collections:
     output: true
   projects:
     output: true
-  availableprojects:
-    output: true
-    permalink: /internal/projects/:title:output_ext
   publications:
     output: true
     permalink: /publications/:title:output_ext
-  minijobs:
-    output: true
-    permalink: /internal/minijobs/:title:output_ext
   opportunities:
     output: true
   policy:
@@ -71,16 +65,16 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-remote_theme: mlatcl/jekyll-theme
+remote_theme: datatrustsinitiative/jekyll-theme
 style: mlatcl
-description: This is a page of ML researchers based in the Computer Laboratory working in collaboration with Carl Henrik Ek, Ferenc Huszar, Neil Lawrence, Sarah Morgan, Challenger Mishra, Jessica Montgomery and Peter Ochieng.
+description: This is the web presence of the data trusts initiative..
 twitter_svg: ./assets/images/social-tw.svg
 facebook_svg: ./assets/images/social-fb.svg
 instagram_svg: ./assets/images/social-in.svg
 image_root: ./assets/images/
 baseurl: ''
 markdown: kramdown
-twitter_username: mlatcl
+twitter_username: data
 github_username: mlatcl
 display:
   copy_button:
