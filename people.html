@@ -1,0 +1,26 @@
+---
+layout: standard
+title: Our People
+permalink: /people/
+---
+
+<section class="block block__team">
+    <div class="container">
+        <div class="team__grid">
+            {% for person in site.people %}{% unless person.alumni %}{% include extractname.html entry=person %}
+                <a href="{{ person.url }}" class="team__member">
+                    <div class="team__member-image">
+                        <img src="{%if person.image contains 'http'%}{{person.image}}{%else%}{{site.data.images.directory | relative_url }}/{%if person.image and person.image != "" %}{{person.image}}{% else %}{{site.data.images.person_placeholder}}{%endif%}{%endif%}" alt="Image of {{person.title}}">
+                    </div>
+                    <div class="team__member-details">
+                        <div>
+                            <h2>{{ name }}</h2>
+                            {%if person.position %}<p>{{ person.position }}{%if person.institution %}, {{ person.institution }}{% endif %}</p>{% endif %}
+                        </div>
+                        <span>View Profile</span>
+                    </div>
+                </a>{% endunless %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
