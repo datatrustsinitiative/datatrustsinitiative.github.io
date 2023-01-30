@@ -1,6 +1,6 @@
 ---
 layout: research-single
-title: Local data and placemaking in coastal communitiesBridging theory and practice with use cases
+title: Local data and placemaking in coastal communities
 excerpt: 
 featured_image: CN+DTI+image+06Jul2021.jpg
 overview_short: How can data trusts support civic engagement and environmental stewardship in local communities?
