@@ -28,12 +28,13 @@ abstract: |
   This paper examines how digital property rights for individuals can
   be used in the context of the ‘data trust’ to generate collectivist
   solutions to asymmetries in the personal data market.
+
 published: 2021-11-29
 author:
-  - given: James
-	family: Kingston
-    person_page: james-kingston
-  - family: Tasker
-    given: Paul
+- given: James
+  family: Kingston
+  person_page: james-kingston
+- family: Tasker
+  given: Paul
 pdf: https://datatrusts.uk/assets/pdfs/Containing_Multitudes_Aggregating_Personal_Data_Access.pdf 
 ---
