@@ -11,8 +11,7 @@ excerpt: Participatory practice around data involves innovation in so far as it 
 date: 2022-09-15
 ---
 
-**How can the individuals and communities affected by decisions about
-data be more engaged in shaping and making those decisions?**
+## How can the individuals and communities affected by decisions about data be more engaged in shaping and making those decisions?
 
 New institutions of data governance, such as data co-operatives and data
 trusts provide an important framework for enabling data stewardship to
