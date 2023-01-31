@@ -7,6 +7,7 @@ author:
   post: Research Director
 featured_image: assets/images/unsplash-image-w1s5H_3Zn48.jpg
 excerpt: Participatory practice around data involves innovation in so far as it explores citizen voice in a relatively new domain, with novel configurations of technology and power to unpack, technology can offer a range of new participatory tools.  Tim Davies from Connected by Data explores designing for effective engagement.
+date: 2022-09-15
 ---
 
 **How can the individuals and communities affected by decisions about
