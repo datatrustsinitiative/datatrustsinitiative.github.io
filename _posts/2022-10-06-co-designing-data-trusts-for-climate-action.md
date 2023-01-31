@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Co-designing data trusts for climate action
 date: 2022-10-06
 author:
@@ -9,7 +10,7 @@ author:
   family: Massey
   institute: ODI
 excerpt: Bottom-up approaches to data stewardship are already being used to tackle the climate crisis. In this guest blog, the Aapti institute and ODI report on the feasibility of data trusts for climate action and identify potential contexts where they could work.
-featured_image: asssets/images/unsplash-image-ycW4YxhrWHM.jpg
+featured_image: /assets/images/unsplash-image-ycW4YxhrWHM.jpg
 ---
 
 Environmental data is used in many different ways to [combat climate

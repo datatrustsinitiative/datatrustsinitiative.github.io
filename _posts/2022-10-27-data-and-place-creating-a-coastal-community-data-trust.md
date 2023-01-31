@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Placemaking with data: a data trust to serve a coastal community"
 author:
 - given: Natasha
@@ -10,7 +11,7 @@ author:
   institute: charlick+nicholson architects
 date: 2022-10-27
 excerpt: The Brixham Data trust shares insights on creating a new form of civic institution, for community benefit, that arises from exploring data in a coastal community in South Devon, UK.
-featured_image: assets/images/unsplash-image-ksDj8tu4QQw.jpg
+featured_image: /assets/images/unsplash-image-ksDj8tu4QQw.jpg
 ---
 
 Imagine yourself in a coastal community in South Devon, UK, a fishing
