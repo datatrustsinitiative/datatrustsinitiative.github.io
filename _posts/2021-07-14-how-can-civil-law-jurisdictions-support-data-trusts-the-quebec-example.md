@@ -26,12 +26,12 @@ content of fundamental notions of civil law (ownership, legal person,
 patrimony). Some civil law jurisdictions have trust-like institutions,
 but their legal basis is different from trust law. For example, France
 is familiar with fiduciary duties since the introduction of
-the*fiducie*in 2007, but its scope is very limited and cannot be
+the *fiducie* in 2007, but its scope is very limited and cannot be
 applied to data governance as the law stands. France also has another
 type of legal tool through which it is possible to design
 legally-regulated data sharing frameworks (i.e.*groupement intérêt
-public or GIP*). This is the basis for its national[Health Data
-Hub](https://www.health-data-hub.fr/)and other and other data
+public or GIP*). This is the basis for its national [Health Data
+Hub](https://www.health-data-hub.fr/) and other and other data
 pooling projects for sharing. However, even if the*GIP*operates as an
 independent data sharing intermediary, it is not a trust-like
 institution because its legal regime is very different from the common
@@ -48,14 +48,14 @@ creating civil law data trusts.
 The influence of the common law makes Quebec a hybrid civil law
 jurisdiction. Its law of trusts is precisely one of the symbols of this
 hybridity. Since the Civil Code of Québec (1994)[^1], the Quebec trust has
-benefited from an updated framework under[sections 1260 et
-seq](https://ccq.lexum.com/w/ccq/en#!fragment/sec1260/BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoJC4BGAJgDYAGASgBpltTCIBFRQ3AE9oAchGtKYXAj4DhYiYSkIAynlIAhYQCUAogBldANQCCAOQDCu1qTAAjaKWxxmzIA)that allows for the creation
+benefited from an updated framework under [sections 1260 et
+seq](https://ccq.lexum.com/w/ccq/en#!fragment/sec1260/BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoJC4BGAJgDYAGASgBpltTCIBFRQ3AE9oAchGtKYXAj4DhYiYSkIAynlIAhYQCUAogBldANQCCAOQDCu1qTAAjaKWxxmzIA) that allows for the creation
 of‘civilian’ trusts that are as flexible and comprehensive as
 its common law counterpart. Since then, the Quebec trust has been
 defined as a specific way of holding property or rights for the benefit
 of a person or the fulfillment of a purpose authorized by the
-law([section 1260
-C.C.Q](https://d.docs.live.net/8fc1b14dad51ed7b/Documents/Civil%20Code%20of%20Qu%C3%A9bec,%20CQLR%20c%20Chttps:/ccq.lexum.com/w/ccq/en#!fragment/sec1260))[^2]within
+law ([section 1260
+C.C.Q](https://d.docs.live.net/8fc1b14dad51ed7b/Documents/Civil%20Code%20of%20Qu%C3%A9bec,%20CQLR%20c%20Chttps:/ccq.lexum.com/w/ccq/en#!fragment/sec1260))[^2] within
 a regime of fiduciary obligations. Even if the UK trust and the Quebec
 trust are conceptually very different because of the legal traditions in
 which these institutions are embedded, they share a common substance. As
@@ -65,7 +65,7 @@ data trust.
 
 [^1]: C.C.Q in the following.
 
-[^2]: Centre Paul-André Crépeau for Private and Comparative Law,*Private Law Dictionaries*, *sub verbo*“[trust1](https://nimbus.mcgill.ca/pld-ddp/dictionary/show/46135?source=NEWPROPEN)”.
+[^2]: Centre Paul-André Crépeau for Private and Comparative Law,*Private Law Dictionaries*, *sub verbo*“ [trust1](https://nimbus.mcgill.ca/pld-ddp/dictionary/show/46135?source=NEWPROPEN)”.
 
 Although some may criticize the Quebec trust for being a heterodox
 institution from a civil law perspective, it has the potential to
@@ -181,9 +181,8 @@ reforms will welcome or not the implementation of data trusts. It seems
 likely that many of these questions will be answered in the coming
 months, perhaps by means of Quebec data trusts prototypes.
 
+## Acknowledgements
   
-
-
 This text is taken from the first version, published in French, on the
 website of the Cyberjustice Laboratory (Anne-Sophie Hulin, “Introduction
 à la fiducie Québécoise de données” (26-11-2020), online: *Laboratoire
@@ -192,3 +191,4 @@ de Cyberjustice Laboratory*
 In addition, I am very grateful to Harleen Kaloty for her great help in
 adapting this text.
 
+## References
