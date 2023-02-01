@@ -6,7 +6,7 @@ author:
   family: Montgomery
   institute: University of Cambridge
   person_page: jessica-montgomery
-featured_image: unsplash-image-Q1p7bh3SHj8.jpg
+featured_image: /assets/images/unsplash-image-Q1p7bh3SHj8.jpg
 excerpt: Taking the data trust pillars that were the basis of our research agenda – community dialogue, technical systems, legal mechanisms, business models, and use cases – as a starting point, they point to an emerging framework for operationalising data trusts. With the aim of helping create a pathway to real-world implementation, we’ve started mapping these insights into the operational framework.
 date: 2022-03-14
 ---
