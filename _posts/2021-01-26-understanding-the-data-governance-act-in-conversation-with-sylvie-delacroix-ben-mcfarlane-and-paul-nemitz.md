@@ -17,7 +17,7 @@ author:
 - given: Jessica
   family: Montgomery
   institute: University of Cambridge
-featured_image: /assets/image/photo-1559589688-6ba6beafe1e5.jpg
+featured_image: /assets/images/photo-1559589688-6ba6beafe1e5.jpg
 excerpt: Publication of the draft Data Governance Act marks the next phase of the European Commission’s plans to bolster data sharing across the EU. In a bid to shed some light on the intricate questions surrounding this Act’s reference to the delegatability of data rights, Sylvie Delacroix (University of Birmingham) hosted a conversation with Ben McFarlane (University of Oxford) and Paul Nemitz (European Commission).
 date: 2021-01-26
 ---
@@ -60,8 +60,8 @@ that delegation can be revoked. This is different to the conferral of
 rights, which is permanent. Given the aim of the Act is to help people
 exercise their rights, it seems unlikely the Act is genuinely seeking to
 rule out delegation to data intermediaries of rights regulated by the
-act under the heading “Rights of Data Subjects” in Chapter III of GDRP,
-such as the right to ask for deletion of data . This would prevent a
+act under the heading “Rights of Data Subjects” in Chapter III of GDPR,
+such as the right to ask for deletion of data. This would prevent a
 range of relationships we know are helpful in helping people exercise
 their rights – like when individuals task an agent with acting on their
 behalf and which already exist, such as services which help people to
