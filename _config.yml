@@ -35,12 +35,14 @@ collections:
   publications:
     output: true
     permalink: /publications/:title
+  events:
+    output: true
 logo: logo.png
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-- jekyll-paginate-v2
+- jekyll-paginate
 sass:
   sass_dir: _sass
 # Pagination
