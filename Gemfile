@@ -31,7 +31,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick", "~> 1.7"
 # gem "jekyll_asset_pipeline", "~> 0.6.2"
 
-# gem 'jekyll-paginate'
+gem 'jekyll-paginate'
 
-gem 'jekyll-paginate-v2'
+# gem 'jekyll-paginate-v2'
 gem 'jekyll-remote-theme'
