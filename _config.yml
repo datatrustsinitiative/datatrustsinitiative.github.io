@@ -46,14 +46,17 @@ plugins:
 sass:
   sass_dir: _sass
 # Pagination
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+paginate: 5
+paginate_path: "blogs/page:num"
+# for paginate-v2 (not supported by github pages)
+# pagination:
+  # enabled: true
+  # per_page: 5
+  # permalink: '/page/:num/'
+  # title: ':title'
+  # limit: 0
+  # sort_field: 'date'
+  # sort_reverse: true
 remote_theme: datatrustsinitiative/jekyll-theme
 style: mlatcl
 description: This is the web presence of the data trusts initiative..
