@@ -59,7 +59,7 @@ paginate_path: "blogs/page:num"
   # sort_reverse: true
 remote_theme: datatrustsinitiative/jekyll-theme
 style: mlatcl
-description: This is the web presence of the data trusts initiative..
+description: This is the web presence of the data trusts initiative.
 twitter_svg: ./assets/images/social-tw.svg
 facebook_svg: ./assets/images/social-fb.svg
 instagram_svg: ./assets/images/social-in.svg
