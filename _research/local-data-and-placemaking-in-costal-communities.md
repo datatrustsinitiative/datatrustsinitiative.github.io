@@ -1,7 +1,7 @@
 ---
 layout: research-single
 title: Local data and placemaking in coastal communities
-excerpt: 
+excerpt: How can data trusts support civic engagement and environmental stewardship in local communities?
 featured_image: CN+DTI+image+06Jul2021.jpg
 overview_short: How can data trusts support civic engagement and environmental stewardship in local communities?
 overview_long: >-

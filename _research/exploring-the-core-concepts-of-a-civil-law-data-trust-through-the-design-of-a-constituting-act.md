@@ -1,7 +1,7 @@
 ---
 layout: research-single
 title: Exploring the core concepts of a Civil Law data trust through the design of a Constituting Act
-excerpt: 
+excerpt: How can data trusts be created in civil law jurisdictions?
 featured_image: unsplash-image-zeH-ljawHtg.jpg
 overview_short: How can data trusts be created in civil law jurisdictions?
 overview_long: >-

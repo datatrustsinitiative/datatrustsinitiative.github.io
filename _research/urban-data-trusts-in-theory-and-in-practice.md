@@ -1,7 +1,7 @@
 ---
 layout: research-single
 title: Urban data trusts in theory and in practice
-excerpt: 
+excerpt: How might data trusts operate in cities and urban environments?
 featured_image: unsplash-image-9uNFBOXBEBc.jpg
 overview_short: How might data trusts operate in cities and urban environments?
 overview_long: >-
