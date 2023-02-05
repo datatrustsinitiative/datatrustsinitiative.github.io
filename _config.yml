@@ -24,30 +24,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   blog:
     output: true
-  news:
-    output: true
-  events:
-    output: true
-    sort_by: event_date
+    permalink: /blogs/:title
   people:
     output: true
   research:
     output: true
+    permalink: /:title
   projects:
     output: true
   publications:
     output: true
-    permalink: /publications/:title:output_ext
-  opportunities:
-    output: true
-  policy:
-    output: true
-  seminars:
-    permalink: /seminars/:year/:month/:day/:title:output_ext
-    output: true
-  ad-hoc-seminars:
-    permalink: /adhoc/:year/:month/:day/:title:output_ext
-    output: true
+    permalink: /publications/:title
 logo: logo.png
 plugins:
 - jekyll-feed
