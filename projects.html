@@ -9,6 +9,14 @@ permalink: /projects/
 of <strong>data trust pioneers</strong> who will be leading the creation
   of real-world data trusts in 2022.</p>
 
+<div class="project-list">
+  {% for item in site.projects %}
+  {% include listproject.html entry=item %}
+  {% endfor %}
+</div>
+
+
+
 <p>By putting citizen voices at the heart of decisions about data use,
 data trusts offer a vehicle for communities to set the terms of data
 use. For the last year, the Data Trusts Initiative has been
@@ -88,10 +96,4 @@ early on. We are grateful to the McGovern Foundation in particular for
 giving us the means to turn this idea into reality.</p>
 <p>You can find out more about the <a href="/pilot-bis">Born in Scotland
 data trust pilot here</a></p>
-
-<div class="project-list">
-  {% for item in site.projects %}
-  {% include listproject.html entry=item %}
-  {% endfor %}
-</div>
 
