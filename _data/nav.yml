@@ -1,4 +1,4 @@
-main_nav:
+main:
   - label: About
     link: /about/
   - label: Pilot Projects
@@ -7,13 +7,15 @@ main_nav:
     link: /publications/
   - label: Reseach
     link: /research/
+  - label: People
+    link: /people/
   - label: Events
     link: /events/
   - label: Contact
     link: /contact/
   - label: Blogs
     link: /blogs/
-footer_nav:
+footer:
   - label: About
     link: /about/
 top_bar:
@@ -28,6 +30,8 @@ top_bar:
     link: /publications/
   - label: Reseach
     link: /research/
+  - label: People
+    link: /people/
   - label: Events
     link: /events/
   - label: Contact

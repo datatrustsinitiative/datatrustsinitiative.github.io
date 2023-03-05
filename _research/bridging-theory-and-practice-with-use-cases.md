@@ -1,7 +1,7 @@
 ---
 layout: research-single
 title: Bridging theory and practice with use cases
-excerpt: 
+excerpt: What do use cases tell us about operational strategies for data trusts?
 featured_image: unsplash-image-7e2pe9wjL9M.jpg
 overview_short: What do use cases tell us about operational strategies for data trusts?
 overview_long: >-
