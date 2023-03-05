@@ -24,12 +24,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 collections:
   blog:
     output: true
-    permalink: /blogs/:title
+    permalink: /blogs/:slug
   people:
     output: true
   research:
     output: true
-    permalink: /:title
+    permalink: /:slug
   projects:
     output: true
     permalink: /:slug
