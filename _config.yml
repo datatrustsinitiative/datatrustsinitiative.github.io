@@ -59,7 +59,6 @@ paginate_path: "blogs/page:num"
   # sort_field: 'date'
   # sort_reverse: true
 remote_theme: datatrustsinitiative/jekyll-theme
-style: mlatcl
 description: This is the web presence of the data trusts initiative.
 twitter_svg: ./assets/images/social-tw.svg
 facebook_svg: ./assets/images/social-fb.svg
@@ -68,7 +67,7 @@ image_root: ./assets/images/
 baseurl: ''
 markdown: kramdown
 twitter_username: data
-github_username: mlatcl
+github_username: datatrustsinitiative
 display:
   copy_button:
     bibtex: true
@@ -78,12 +77,12 @@ display:
   comments: false
 ghub:
   edit: true
-  repository: mlatcl.github.io
+  repository: datatrustsinitiative.github.io
 future: true
-publisher: The Computer Laboratory
+publisher: The Data Trusts Initiative
 author:
-  name: ML@CL
-  github: mlatcl
+  name: The Data Trusts Initiative
+  github: datatrustsinitiative
 
 analytics:
   google: 
