@@ -2,15 +2,15 @@ main:
   - label: About
     link: /about/
   - label: Pilot Projects
-    link: /projects/
+    link: /pilot-projects-1
   - label: Publications
-    link: /publications/
+    link: /publications
   - label: Reseach
-    link: /research/
+    link: /research
   - label: People
     link: /people/
   - label: Events
-    link: /events/
+    link: /events
   - label: Contact
     link: /contact/
   - label: Blogs
