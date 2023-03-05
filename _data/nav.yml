@@ -1,6 +1,6 @@
 main:
   - label: About
-    link: /about/
+    link: /about
   - label: Pilot Projects
     link: /pilot-projects-1
   - label: Publications
@@ -8,33 +8,13 @@ main:
   - label: Reseach
     link: /research
   - label: People
-    link: /people/
+    link: /people
   - label: Events
     link: /events
   - label: Contact
-    link: /contact/
+    link: /contact
   - label: Blogs
-    link: /blogs/
+    link: /blogs
 footer:
   - label: About
-    link: /about/
-top_bar:
-  image: /assets/images/DATA_Logo_Primary_Colour_Light.png
-  link: https://datatrusts.uk/
-  top_bar_nav:
-  - label: About
-    link: /about/
-  - label: Pilot Projects
-    link: /projects/
-  - label: Publications
-    link: /publications/
-  - label: Reseach
-    link: /research/
-  - label: People
-    link: /people/
-  - label: Events
-    link: /events/
-  - label: Contact
-    link: /contact/
-  - label: Blogs
-    link: /blogs/
+    link: /about
