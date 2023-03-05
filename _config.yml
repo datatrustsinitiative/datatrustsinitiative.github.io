@@ -32,6 +32,7 @@ collections:
     permalink: /:title
   projects:
     output: true
+    permalink: /:slug
   publications:
     output: true
     permalink: /publications/:title
