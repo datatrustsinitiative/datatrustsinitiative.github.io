@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Diane
 family: Coyle
 crsid: 

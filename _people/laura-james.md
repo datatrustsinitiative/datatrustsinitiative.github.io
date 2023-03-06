@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Laura
 family: James
 crsid: 
