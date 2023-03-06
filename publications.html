@@ -1,19 +1,12 @@
 ---
-layout: standard
+layout: default
 title: Publications
 permalink: /publications
 ---
 
-<section class="block block__publications">
-    <div class="container">
-        <div class="section-heading">
-            <h2>Publications</h2>
-            <span></span>
-        </div>
-        <div class="publications__list">
-          {% for item in site.publications %}
-	  {% include listpaper.html entry=item %}
-          {% endfor %}
-        </div>
-    </div>
-</section>
+<h2>Publications</h2>
+<div class="publications__list">
+  {% for item in site.publications %}
+  {% include listpaper.html entry=item %}
+  {% endfor %}
+</div>

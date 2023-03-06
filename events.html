@@ -4,27 +4,9 @@ permalink: /events
 section_id: events
 ---
 
-<section class="block block__grid">
-    <div class="container">
-        <div class="grid__grid">
-            {% for item in site.events %}
-            <a class="grid__item" href="{%if item.link %}{{item.link}}{%else%}{{ item.url }}{%endif%}">
-                <div class="grid__item-content">
-                    <h3>{{ item.title }}</h3>
-                    <p>{%if item.description %}{{ item.description }}{%else%}{{ item.excerpt }}{%endif%}</p>
-                    <div class="button button--white">
-                        Read More
-                        <span class="dot dot--top-left"></span>
-                        <span class="dot dot--top-right"></span>
-                        <span class="dot dot--bottom-left"></span>
-                        <span class="dot dot--bottom-right"></span>
-                    </div>
-                </div>
-                <div class="grid__item-image">
-                    <img src="{{ item.featured_image }}">
-                </div>
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-</section>
+
+<div class="project-list">
+{% for item in site.events %}
+{% include listevent.html entry=item %}
+{% endfor %}
+</div>
