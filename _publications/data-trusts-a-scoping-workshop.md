@@ -12,7 +12,7 @@ author:
   institute: University of Birmingham
 - given: Julian
   family: Huppert
-  person-page: julian-huppert
+  person_page: julian-huppert
   institute: Jesus College Intellectual Forum
 - given: Neil D.
   family: Lawrence
@@ -20,7 +20,7 @@ author:
   institute: University of Cambridge
 - given: Jessica
   family: Montgomery
-  person-page: jessica-montgomery
+  person_page: jessica-montgomery
   institute: University of Cambridge
 abstract: |
   In September 2019 The Alan Turing Institute and Jesus College
