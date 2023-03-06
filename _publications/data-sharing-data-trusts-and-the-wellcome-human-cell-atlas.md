@@ -8,7 +8,7 @@ date: 2020-10-20
 author:
 - given: Neil D.
   family: Lawrence
-  person_page: neil-lawrence
+  person_page: neil-d-lawrence
   institute: University of Cambridge
 abstract: |
   Computational biologists know better than perhaps any other domain
