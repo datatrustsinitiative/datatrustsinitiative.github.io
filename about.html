@@ -4,33 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<section class="block block__text">
-    <div class="container">
-        {{ site.data.about.body | markdownify }}
-    </div>
-</section>
+{{ site.data.about.body | markdownify }}
+
 {% include partner-list.html %}
-<section class="block block__grid">
-    <div class="container">
-        <div class="grid__grid">
-            {% for item in site.data.about.grid %}
-            <a class="grid__item" href="{{ item.link }}">
-                <div class="grid__item-content">
-                    <h3>{{ item.title }}</h3>
-                    <p>{{ item.description }}</p>
-                    <div class="button button--white">
-                        Read More
-                        <span class="dot dot--top-left"></span>
-                        <span class="dot dot--top-right"></span>
-                        <span class="dot dot--bottom-left"></span>
-                        <span class="dot dot--bottom-right"></span>
-                    </div>
-                </div>
-                <div class="grid__item-image">
-                    <img src="{{ item.image }}">
-                </div>
-            </a>
-            {% endfor %}
-        </div>
-    </div>
-</section>
