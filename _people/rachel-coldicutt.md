@@ -6,7 +6,7 @@ crsid:
 start: 
 end:
 position: 
-institute: Careful Industries
+institution: Careful Industries
 website: 
 biography: 
 ---
