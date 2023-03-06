@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Containing Multitudes: Aggregating Personal Data Access Contracts to Create a Bottom-Up Data Trust"
+description: A position paper prepared by Dataswift Ltd to review a new approach to settling data in trust enabled by Dataswift’s proprietary technology platform. The work is funded in part by the School of Technology, University of Cambridge through sub-award G109655 as a contribution to the Cambridge Data Trust Initiative.
 abstract: |
   Data-driven technologies and digital business models have proved
   transformative to the economy, creating great wealth and reshaping

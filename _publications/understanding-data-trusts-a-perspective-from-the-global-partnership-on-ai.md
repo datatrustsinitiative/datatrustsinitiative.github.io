@@ -45,5 +45,6 @@ abstract: |
   form the basis of a data institution.
 description: As part of its project ‘Enabling data sharing for social benefit through data trusts’ the Initiative has supported GPAI in producing this statement on the core functions that a data trust must deliver. 
 date: 2021-07-09
+section: Research Papers
 pdf: https://datatrusts.uk/assets/pdfs/2021-07-09-GPAI-summary-understanding-data-trusts-updated.docx.pdf
 ---

@@ -4,9 +4,49 @@ title: Publications
 permalink: /publications
 ---
 
-<h2>Publications</h2>
-<div class="publications__list">
-  {% for item in site.publications %}
-  {% include listpaper.html entry=item %}
+{% assign policy_papers = site.publications | where: "section", "Policy and Engagement" | sort: "date" | reverse %}
+{% assign working_papers = site.publications | where: "section", "Working Papers" | sort: "date" | reverse %}
+{% assign research_papers = site.publications | where: "section", "Research Papers" | sort: "date" | reverse %}
+{% assign other_papers = site.publications | where: "section", nil | sort: "date" | reverse %}
+
+{% assign policy_size = policy_papers.size %}
+{% assign working_size = working_papers.size %}
+{% assign research_size = research_papers.size %}
+{% assign other_size = other_papers.size %}
+
+{% if working_size > 0 %}
+<div class="working-papers">
+  <h2>Working Papers</h2>
+  {% for paper in working_papers %}
+    {% include listpaper.html entry=paper %}
   {% endfor %}
 </div>
+{% endif %}
+
+{% if policy_size > 0 %}
+<div class="policy-papers">
+  <h2>Policy and Engagement</h2>
+  {% for paper in policy_papers %}
+    {% include listpaper.html entry=paper %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if research_size > 0 %}
+<div class="research-papers">
+  <h2>Research Papers</h2>
+  {% for paper in research_papers %}
+    {% include listpaper.html entry=paper %}
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if other_size > 0 %}
+<div class="other-papers">
+  <h2>Other Papers</h2>
+  {% for paper in other_papers %}
+    {% include listpaper.html entry=paper %}
+  {% endfor %}
+</div>
+{% endif %}
+
