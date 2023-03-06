@@ -12,7 +12,7 @@ author:
   family: Cohen
 - given: Sylvie
   family: Delacroix
-  person_page: Sylvie Delacroix
+  person_page: sylvie-delacroix
 - given: Neil D.
   family: Lawrence
   person_page: neil-d-lawrence
