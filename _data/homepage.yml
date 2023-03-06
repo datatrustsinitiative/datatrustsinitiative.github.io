@@ -5,16 +5,16 @@ tiles:
   description: Our work on the foundations and applications of data trusts explores what data trusts are and what role they play in data stewardship.
   image: /assets/images/unsplash-image-npxXWgQ33ZQ.jpg
   label: Read our recent publications
-  link: /publications/
+  link: /publications
 - title: Research
   heading: Advancing research and innovation
   description: Research projects funded by the Data Trusts initiative  are investigating how the ideas behind data trusts can be put into practice. 
   image: /assets/images/unsplash-image-ETRPjvb0KM0.jpg
   label: Find out more about our research
-  link: /research/
+  link: /research
 - title: Pilot Projects
   heading: Supporting Data Trust Pioneers
   description: Our data trust pilot programme provides support and funding for data trust pioneers who are creating real-world data trust projects.
   image: /assets/images/unsplash-image-kI1iR7l55FM.jpg
   label: Read about the supported pilots
-  link: /research/
+  link: /pilot-projects-1

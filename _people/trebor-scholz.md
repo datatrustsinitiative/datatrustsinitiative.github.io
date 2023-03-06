@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Trebor
 family: Scholz
 crsid: 
