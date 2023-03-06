@@ -6,7 +6,7 @@ crsid:
 start: 
 end:
 position: 
-institute: Mydex CIC
+institution: Mydex CIC
 website: 
 biography: 
 ---
