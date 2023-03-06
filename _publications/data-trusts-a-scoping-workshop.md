@@ -16,7 +16,7 @@ author:
   institute: Jesus College Intellectual Forum
 - given: Neil D.
   family: Lawrence
-  person_page: neil-lawrence
+  person_page: neil-d-lawrence
   institute: University of Cambridge
 - given: Jessica
   family: Montgomery
