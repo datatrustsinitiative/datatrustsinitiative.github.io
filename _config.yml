@@ -21,7 +21,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-banner: Blue.png
 
 collections:
   blog:
@@ -40,7 +39,6 @@ collections:
     permalink: /publications/:title
   events:
     output: true
-logo: logo.png
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
