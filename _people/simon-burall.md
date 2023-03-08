@@ -5,8 +5,9 @@ family: Burall
 crsid: 
 start: 
 end:
-position: 
+position: Senior Associate
 institution: Involve
-website: 
+website: https://involve.org.uk/about/our-people/associates/simon-burall
+linkedin: simonburall
 biography: 
 ---
