@@ -23,9 +23,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 collections:
-  blog:
-    output: true
-    permalink: /blogs/:slug
   people:
     output: true
   research:
@@ -48,7 +45,7 @@ sass:
   sass_dir: _sass
 # Pagination
 paginate: 5
-paginate_path: "blogs/page:num"
+paginate_path: "/blogs/page:num"
 # for paginate-v2 (not supported by github pages)
 # pagination:
   # enabled: true
