@@ -1,0 +1,11 @@
+---
+layout: default
+title: Blog
+---
+
+<div class="project-list">
+  {% for post in site.posts %}
+  {% include listblog.html entry=post %}
+  {% endfor %}
+</div>
+

@@ -5,6 +5,7 @@ author:
 - given: Jessica
   family: Montgomery
   institute: University of Cambridge
+  person_page: jessica-montgomery
 featured_image: /assets/images/glasses-on-book.jpg
 excerpt: |
   This paper by Sylvie Delacroix and Neil Lawrence sets the scene for
@@ -16,7 +17,7 @@ excerpt: |
   Forum on AI for Humanity, which you can view on Inria’s YouTube
   channel, and at a workshop by The Alan Turing Institute and Jesus
   College Intellectual Forum.
-date: 2020-06-02
+date: 2020-02-06
 ---
 
 [This paper](https://doi.org/10.1093/idpl/ipz014) by Sylvie Delacroix
