@@ -9,12 +9,9 @@ author:
 featured_image: /assets/images/classified-ads.jpg
 excerpt: |
   Responding to recent debates about the use of data to track the
-  spread of COVID-19 (and the ethical issues that follow),
-  [this article](https://www.ft.com/content/d6c877cc-6cfa-11ea-9bca-bf503995cd6f?shareType=nongift)
-  and
-  [this letter](https://www.ft.com/content/eaebfcb2-6e8d-11ea-9bca-bf503995cd6f?shareType=nongift)
-  to the Financial Times makes the case for further efforts to develop
-  data stewardship mechanisms, such as data trusts.
+  spread of COVID-19 (and the ethical issues that follow), an article
+  and a letter to the Financial Times make the case for further
+  efforts to develop data stewardship mechanisms, such as data trusts.
 date: 2020-02-06
 ---
 
@@ -24,7 +21,7 @@ of COVID-19 (and the ethical issues that follow), [this
 article](https://www.ft.com/content/d6c877cc-6cfa-11ea-9bca-bf503995cd6f?shareType=nongift)
 and [this
 letter](https://www.ft.com/content/eaebfcb2-6e8d-11ea-9bca-bf503995cd6f?shareType=nongift)
-to the Financial Times makes the case for further efforts to develop
+to the Financial Times make the case for further efforts to develop
 data stewardship mechanisms, such as data trusts.
 
 A recent [article by The

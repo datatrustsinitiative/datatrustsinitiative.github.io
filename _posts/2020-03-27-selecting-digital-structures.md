@@ -74,10 +74,11 @@ no rights - on the choice of data sharing structures is illustrated in
 Figure 1 (below).
 
 ![](/assets/images/decision-tree.jpg)
-Figure 1: Decision tree for data sharing. The root node splits
+
+*Figure 1: Decision tree for data sharing. The root node splits
 agreements into those where the data has and hasn’t been collected. The
 scope and nature of rights pertaining to the data is the next
-branch.
+branch.*
 
 #### Question 3. What legal and ethical obligations constrain data sharing? 
 
@@ -102,18 +103,16 @@ The choice of data access agreement is shaped by the values and aims of
 those creating it. Our simple framework, illustrated below, highlights
 four types of considerations:
 
--   [Individual concerns]{preserve-html-node="true" style="color:red"},
+-   **Individual concerns**,
     relating to the benefits that an individual or entity might seek to
     gain by sharing data.
--   [Societal concerns]{preserve-html-node="true" style="color:gold"},
+-   **Societal concerns**,
     or the pursuit of 'social good' activities, including improvements
     to public services or the natural environment.
--   [Managing vulnerabilities]{preserve-html-node="true"
-    style="color:green"}, often stemming from power asymmetries that are
+-   **Managing vulnerabilities**, often stemming from power asymmetries that are
     emergent or embedded in social relationships and that can be
     compounded through poorly governed use of data.
--   [Promoting enfranchisement]{preserve-html-node="true"
-    style="color:blue"}, relating to the ability of individuals or
+-   **Promoting enfranchisement**, relating to the ability of individuals or
     groups to seek redress after mistreatment or to pursue
     representation in the digital environment.
 
@@ -130,24 +129,22 @@ figure 2).
 
 1.  **Data Coops**: the contractual underpinnings of data coops make
     them relatively easy to set up and well suited to empowering groups
-    of individuals to obtain [individual
-    goods]{preserve-html-node="true" style="color:red"} (such as
+    of individuals to obtain *individual
+    goods* (such as
     financial returns) or services (such as the monitoring of health or
     education services) that they would not be able to secure without
     pooling their data. Data coops may to some extent facilitate the
-    pursuit of [societal goods]{preserve-html-node="true"
-    style="color:gold"} (such as health research) on an ad-hoc basis
+    pursuit of *societal goods* (such as health research) on an ad-hoc basis
     (depending on the contractual terms).
 2.  **Public Databank**: (à la Sidewalk labs latest instantiation): The
     fact that this type of data institution is run or held by a public
     entity makes it particularly well suited to purposes relating to the
-    furthering of [societal goods]{preserve-html-node="true"
-    style="color:gold"}. Nothing prevents this type of institution from
-    also endeavouring to facilitate the delivery of [individual
-    goods]{preserve-html-node="true" style="color:red"} (like monitoring
+    furthering of *societal goods*. Nothing prevents this type of institution from
+    also endeavouring to facilitate the delivery of *individual
+    goods* (like monitoring
     the quality of health services). This type of institution may seek
     to address or minimize the
-    [vulnerabilities]{preserve-html-node="true" style="color:green"}
+    *vulnerabilities*
     that stem from data sharing. Its being a State-provided, monolithic
     type of institution may however hinder its ability to address some
     types of vulnerabilities and enfranchise marginalised groups.
@@ -157,7 +154,7 @@ figure 2).
     are also uniquely capable of any combination of these aims
     (depending on the focus of each particular data trust). This
     mechanism is well-placed to address concerns about
-    [enfranchisement]{preserve-html-node="true" style="color:blue"}, by
+    *enfranchisement*, by
     providing a mechanism for under-represented and potentially
     vulnerable groups of individuals to reverse the direction of
     consent: their data trustee will have the fiduciary responsibility
@@ -168,6 +165,7 @@ figure 2).
 
 *Figure 2: The four primary considerations when designing a data
 governance structure for sharing personal data.*
+
 Each of these structures has its roots in different areas of the law.
 Data trusts draw from trust law, and raise novel questions at the
 intersection of property law, data protection, and public law. Other
@@ -179,4 +177,3 @@ starting point: much work needs to be done in mapping the relationship
 and complementarity between the different data sharing structures that
 have been considered.
 
-*Authors: Sylvie Delacroix, Neil Lawrence and Jess Montgomery (2020)*

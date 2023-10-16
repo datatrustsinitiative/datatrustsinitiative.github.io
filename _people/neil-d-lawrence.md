@@ -4,7 +4,7 @@ layout: person
 family: Lawrence
 given: Neil D.
 crsid: ndl21
-position: The DeepMind Professor of Machine Learning
+position: Co-Chair of Data Trusts Initiative
 institution: Cambridge University
 image: neil-d-lawrence.jpg
 github: lawrennd
