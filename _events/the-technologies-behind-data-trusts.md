@@ -6,6 +6,7 @@ featured_image: /assets/images/unsplash-image-ZiQkhI7417A.jpg
 start: 2022-02-23 15:30 GMT
 end: 2022-02-23 17:00 GMT
 youtube: ol3kY1NhEjE
+date: 2022-02-23
 people:
 - david-alexander
 - irene-ng
