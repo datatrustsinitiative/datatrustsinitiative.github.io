@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/the-data-trust-lifecycle.png
 excerpt: With both our understanding of how to operationalise data trusts and our technical capabilities changing at pace, part of the challenge today is to really pin down how the technologies we have map onto the functions that data trusts need to deliver. 
 date: 2022-03-29
+redirect_from:
+  - /blogs/technology-and-the-data-trust-lifecycle
+  - /blogs/technology-and-the-data-trust-lifecycle/
 ---
 
 *Following our recent seminar on the* [*Technologies behind data

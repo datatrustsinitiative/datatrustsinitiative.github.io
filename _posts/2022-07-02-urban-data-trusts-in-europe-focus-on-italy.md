@@ -13,6 +13,9 @@ author:
 featured_image: /assets/images/unsplash-image-jGfh31FMBU4.jpg
 excerpt: Today the holders of the vast majority of mobility data are private service providers such as ride-sharing companies. Urban Data Trusts position themselves as an intermediary between the city and its people offering access to mobility data and more efficient use of data privacy rights vs private companies who do not necessarily take into consideration the common good. 
 date: 2022-07-02
+redirect_from:
+  - /blogs/urban-data-trusts-in-europe-focus-on-italy
+  - /blogs/urban-data-trusts-in-europe-focus-on-italy/
 ---
 
 One type of particularly valuable data for a city and its people is

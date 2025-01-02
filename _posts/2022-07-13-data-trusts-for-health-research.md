@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/unsplash-image-w-RTffXK9tM.jpg
 excerpt: Dr Jessica Bell explores how data trusts might operate in the health research context, specifically in birth cohorts and longitudinal studies that aim to engage participants over their lifetime with data trusts as a model for increased participation. 
 date: 2022-07-13
+redirect_from:
+  - /blogs/data-trusts-for-health-research
+  - /blogs/data-trusts-for-health-research/
 ---
 
 *Emperor’s new clothes or model for increased participation in birth

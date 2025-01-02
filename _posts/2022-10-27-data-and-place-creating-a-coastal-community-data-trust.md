@@ -12,6 +12,9 @@ author:
 date: 2022-10-27
 excerpt: The Brixham Data trust shares insights on creating a new form of civic institution, for community benefit, that arises from exploring data in a coastal community in South Devon, UK.
 featured_image: /assets/images/unsplash-image-ksDj8tu4QQw.jpg
+redirect_from:
+  - /blogs/data-and-place-creating-a-coastal-community-data-trust
+  - /blogs/data-and-place-creating-a-coastal-community-data-trust/
 ---
 
 Imagine yourself in a coastal community in South Devon, UK, a fishing

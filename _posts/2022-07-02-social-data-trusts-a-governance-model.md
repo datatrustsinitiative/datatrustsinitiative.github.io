@@ -8,6 +8,9 @@ author:
   institute: "[TIESS](https://tiess.ca/gouvernance-et-fiducie-de-donnees/)"
 excerpt: "One unique feature of Québec’s trust law occurs in the form of social trusts: a purpose-trust without designated beneficiaries. This blog underlines how social trusts are well designed for imagining and creating data trusts and how to implement data governance mechanisms into this legal framework."
 date: 2022-07-02
+redirect_from:
+  - /blogs/social-data-trusts-a-governance-model
+  - /blogs/social-data-trusts-a-governance-model/
 ---
 
 When it comes to implementing data trusts, Québec’s law contains a

@@ -9,6 +9,9 @@ author:
   person_page: alan-mitchell
 featured_image: /assets/images/unsplash-image-dWYU3i-mqEo.jpg
 excerpt: At first sight, Data trusts and Personal Data Stores (PDSs) may look incompatible. But they could prove complementary, with PDSs providing infrastructure for Trusts to work much more efficiently and effectively.
+redirect_from:
+  - /blogs/helping-data-trusts-manage-personal-data
+  - /blogs/helping-data-trusts-manage-personal-data/
 ---
 
 
