@@ -17,6 +17,9 @@ author:
 featured_image: /assets/images/unsplash-image--2sHiosD-CU.jpg
 excerpt: In the next of our series of ‘in conversation with…’ blogs, Sylvie Delacroix speaks to Astha Kapoor (Co-founder, Aapti Institute) about how discussions about data trusts are developing in India, following publication of a report from India’s Committee of Experts on Non-Personal Data.
 date: 2021-03-25
+redirect_from:
+  - /blogs/where-next-for-proposals-from-indias-committee-of-experts-on-non-personal-data-in-conversation-with-astha-kapoor-and-sylvie-delacroix
+  - /blogs/where-next-for-proposals-from-indias-committee-of-experts-on-non-personal-data-in-conversation-with-astha-kapoor-and-sylvie-delacroix/
 ---
 
 *In the next of our series of ‘in conversation with’ blogs, Sylvie

@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/unsplash-image-TtJ0CLjLi6w.jpg
 excerpt: Data trusts are a promising concept for enabling data use while maintaining data privacy. In this blog, Aline Blankertz, explores what regulation for data trusts should look like and how we can make new models possible.
 date: 2021-10-06
+redirect_from:
+  - /blogs/data-trusts-as-new-models-for-the-data-economy
+  - /blogs/data-trusts-as-new-models-for-the-data-economy/
 ---
 
 ## Making new models possible: What regulation for data trusts should look like

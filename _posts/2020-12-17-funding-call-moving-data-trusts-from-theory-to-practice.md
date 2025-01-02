@@ -10,6 +10,9 @@ featured_image: /assets/images/library-corridor.jpg
 excerpt: |
   The Data Trusts Initiative is offering research grants for projects that can help bridge the gap between discussions about the potential of data trusts and their practical application. 
 date: 2020-12-17
+redirect_from:
+  - /blogs/funding-call-moving-data-trusts-from-theory-to-practice
+  - /blogs/funding-call-moving-data-trusts-from-theory-to-practice/
 ---
 
 [The Data Trusts

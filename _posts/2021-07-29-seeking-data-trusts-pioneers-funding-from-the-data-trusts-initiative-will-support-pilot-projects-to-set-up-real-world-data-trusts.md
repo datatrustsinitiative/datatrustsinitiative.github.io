@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/shutterstock_719939482.jpg
 excerpt: The Data Trusts Initiative pilot project scheme, which launches today, is inviting applications from individuals or organisations that would like to set up a data trust. These pilot projects would facilitate independent stewardship of data through the action of data trustees, support individuals and groups to collectively negotiate terms of data use, and provide strong institutional safeguards against data mis-use. Pilot projects might come from any sector, and the scheme is open to applications from any country. 
 date: 2021-07-29
+redirect_from:
+  - /blogs/seeking-data-trusts-pioneers-funding-from-the-data-trusts-initiative-will-support-pilot-projects-to-set-up-real-world-data-trusts
+  - /blogs/seeking-data-trusts-pioneers-funding-from-the-data-trusts-initiative-will-support-pilot-projects-to-set-up-real-world-data-trusts/
 ---
 
 ***Could a data trust benefit your community? A new programme from the

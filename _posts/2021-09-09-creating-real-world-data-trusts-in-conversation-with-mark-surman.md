@@ -17,6 +17,9 @@ author:
 featured_image: /assets/images/MarkSurman_Headshot.jpg
 excerpt: The Data Trust Initiative’s core mission is to move data trusts from theory to practice – creating real-world data trusts that serve different communities. Shortly after the launch of our call for pilot projects, Sylvie Delacroix sat down with Mozilla Executive Director Mark Surman for our next ‘in conversation with…’ blog. Mozilla’s Data Futures Lab complements the work of the Data Trust Initiative, undertaking research and providing funding related to a wide variety of data stewardship approaches. 
 date: 2021-09-09
+redirect_from:
+  - /blogs/creating-real-world-data-trusts-in-conversation-with-mark-surman
+  - /blogs/creating-real-world-data-trusts-in-conversation-with-mark-surman/
 ---
 
 *The Data Trust Initiative’s core mission is to move data trusts from

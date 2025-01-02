@@ -20,6 +20,9 @@ author:
 featured_image: /assets/images/photo-1559589688-6ba6beafe1e5.jpg
 excerpt: Publication of the draft Data Governance Act marks the next phase of the European Commission’s plans to bolster data sharing across the EU. In a bid to shed some light on the intricate questions surrounding this Act’s reference to the delegatability of data rights, Sylvie Delacroix (University of Birmingham) hosted a conversation with Ben McFarlane (University of Oxford) and Paul Nemitz (European Commission).
 date: 2021-01-26
+redirect_from:
+  - /blogs/understanding-the-data-governance-act-in-conversation-with-sylvie-delacroix-ben-mcfarlane-and-paul-nemitz
+  - /blogs/understanding-the-data-governance-act-in-conversation-with-sylvie-delacroix-ben-mcfarlane-and-paul-nemitz/
 ---
 
 Publication of the [draft Data Governance

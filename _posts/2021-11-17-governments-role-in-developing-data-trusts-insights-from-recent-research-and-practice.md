@@ -8,6 +8,10 @@ author:
   person_page: jessica-montgomery
 featured_image: /assets/images/unsplash-image-QD9eNzX5sak.jpg
 excerpt: What role should government play in supporting data trusts? The UK’s Department for Digital, Culture, Media and Sport is currently seeking views about the policy interventions needed to encourage trustworthy data use through data intermediaries. Drawing lessons from recent work on data trusts, this post suggests three areas for action.
+date: 2021-11-17
+redirect_from:
+  - /blogs/government-s-role-in-developing-data-trusts-insights-from-recent-research-and-practice
+  - /blogs/government-s-role-in-developing-data-trusts-insights-from-recent-research-and-practice/
 ---
 
 *What role should government play in supporting data trusts? In ‘Data: A

@@ -41,6 +41,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 - jekyll-paginate
+- jekyll-redirect-from
 sass:
   sass_dir: _sass
 # Pagination

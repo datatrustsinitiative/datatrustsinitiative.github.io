@@ -9,7 +9,11 @@ author:
 featured_image: /assets/images/international-perspectives.jpg
 excerpt: A new Working Paper from the Data Trusts Initiative explores how different countries are developing data trusts, and what lessons can be taken from these international comparisons.
 date: 2021-03-01
+redirect_from:
+  - /blogs/international-perspectives-on-data-institutions-lessons-for-data-trusts
+  - /blogs/international-perspectives-on-data-institutions-lessons-for-data-trusts/
 ---
+
 Governments across the world have looked to data trusts as a new form of
 data institution, aiming to support data sharing for social benefit
 while managing potential harms from data use. In developing policy

@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/data-governance.jpg
 excerpt: The draft Data Governance Act marks the start of a new phase of action by the European Commission in its ambition to “boost a data-driven economy in Europe”. The Act sets out a framework to govern the work of data intermediaries – organisations that are involved in data sharing services – with the aim of increasing data sharing while supporting individuals to exercise their data rights. In this post, we look at some of the questions the Act raises about the development of data trusts.
 date: 2021-01-29
+redirect_from:
+  - /blogs/data-trusts-and-the-draft-data-governance-act
+  - /blogs/data-trusts-and-the-draft-data-governance-act/
 ---
 
 The draft [Data Governance

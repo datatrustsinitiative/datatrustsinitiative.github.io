@@ -8,6 +8,9 @@ author:
 excerpt: Last week, the Data Trusts Initiative hosted an information session about our new support programme for data trust pilot projects. You can read more about the pilot scheme on our pilot projects pages. To supplement the FAQs published alongside the scheme, this post sets out our answers to the questions that came up during the information session. 
 featured_image: /assets/images/unsplash-image-8xAA0f9yQnE.jpg
 date: 2021-09-17
+redirect_from:
+  - /blogs/our-pilot-programme-faqs
+  - /blogs/our-pilot-programme-faqs/
 ---
 
 *Last week, the Data Trusts Initiative hosted an information session

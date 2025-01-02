@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/legal-mechanisms.jpg 
 excerpt: A new report from the Ada Lovelace Institute, in partnership with the Data Trusts Initiative, AI Council, ODI and City of London Law Society, explores the different legal mechanisms that can contribute to data stewardship.
 date: 2021-03-04
+redirect_from:
+  - /blogs/legal-mechanisms-for-data-stewardship-the-role-of-data-trusts
+  - /blogs/legal-mechanisms-for-data-stewardship-the-role-of-data-trusts/
 ---
 
 The challenge of 21st century data governance is to create systems of

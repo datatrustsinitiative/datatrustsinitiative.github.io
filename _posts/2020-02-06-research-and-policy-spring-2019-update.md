@@ -18,6 +18,9 @@ excerpt: |
   channel, and at a workshop by The Alan Turing Institute and Jesus
   College Intellectual Forum.
 date: 2020-02-06
+redirect_from:
+  - /blogs/research-and-policy-spring-2019-update
+  - /blogs/research-and-policy-spring-2019-update/
 ---
 
 [This paper](https://doi.org/10.1093/idpl/ipz014) by Sylvie Delacroix

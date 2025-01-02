@@ -14,6 +14,9 @@ featured_image: /assets/images/night-street.jpg
 excerpt: |
   The EU’s draft data strategy set out its aim to promote a European data economy, while protecting individual rights and embedding ethical considerations in data governance. Data trusts offer a tool for bridging the gap between aspirations to share data and concerns about individual rights. This blog considers the role of data trusts in the European policy landscape and the action needed to create a policy environment to support their development.
 date: 2020-06-07
+redirect_from:
+  - /blogs/data-trusts-and-the-eu-data-strategy
+  - /blogs/data-trusts-and-the-eu-data-strategy/
 ---
 
 **This blog considers the role of data trusts in the European policy

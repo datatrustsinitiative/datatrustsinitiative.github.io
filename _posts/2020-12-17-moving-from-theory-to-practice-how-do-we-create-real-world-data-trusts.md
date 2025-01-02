@@ -18,6 +18,9 @@ excerpt: |
   and a letter to the Financial Times make the case for further
   efforts to develop data stewardship mechanisms, such as data trusts.
 date: 2020-12-17
+redirect_from:
+  - /blogs/moving-from-theory-to-practice-how-do-we-create-real-world-data-trusts
+  - /blogs/moving-from-theory-to-practice-how-do-we-create-real-world-data-trusts/
 ---
 
 As we've [written on this blog

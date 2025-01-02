@@ -9,6 +9,9 @@ author:
 featured_image: /assets/images/unsplash-image-zeH-ljawHtg.jpg
 excerpt: In most civil law jurisdictions, the use of trust law for data stewardship is not part of the legal landscape - trusts are generally emblematic of common rather than civil law traditions. The “civilization” of trust law is complex, affecting the contours and content of fundamental notions of civil law (ownership, legal person, patrimony).
 date: 2021-07-14
+redirect_from:
+  - /blogs/how-can-civil-law-jurisdictions-support-data-trusts-the-quebec-example
+  - /blogs/how-can-civil-law-jurisdictions-support-data-trusts-the-quebec-example/
 ---
 
 *Dr Anne-Sophie Hulin is Postdoctoral fellow at Artificial and

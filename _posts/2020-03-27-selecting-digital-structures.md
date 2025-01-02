@@ -18,6 +18,9 @@ featured_image: /assets/images/sign-post.jpg
 excerpt: |
   Sharing data can bring a range of benefits for individuals, organisations and society. Achieving these aspirations requires governance structures that enable data access, while managing the rights and responsibilities associated with different data types. Different forms of such structures exist, and they are differently suited to different purposes.
 date: 2020-03-27
+redirect_from:
+  - /blogs/selecting-digital-structures-a-value-based-choice
+  - /blogs/selecting-digital-structures-a-value-based-choice/
 ---
 
 **This post explores how we might map the suitability of different data sharing structures to different types of data use**

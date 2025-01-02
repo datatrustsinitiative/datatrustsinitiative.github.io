@@ -14,6 +14,9 @@ featured_image: /assets/images/night-parliament.jpg
 excerpt: |
   Governments across the world are embedding the idea of data trusts in policy developments. This post reviews recent policy proposals from India, Canada and the EU.
 date: 2020-10-01
+redirect_from:
+  - /blogs/international-policy-developments
+  - /blogs/international-policy-developments/
 ---
 
 Our [previous

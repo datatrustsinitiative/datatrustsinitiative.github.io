@@ -13,6 +13,9 @@ excerpt: |
   and a letter to the Financial Times make the case for further
   efforts to develop data stewardship mechanisms, such as data trusts.
 date: 2020-02-06
+redirect_from:
+  - /blogs/media-and-comment
+  - /blogs/media-and-comment/
 ---
 
 
