@@ -5,6 +5,7 @@ permalink: /people
 ---
 
 {% for person in site.people %}{% unless person.alumni %}{% include extractname.html entry=person %}
+<div class="person-list">
 <div class="card person-card">
   <div class="person-image">
     <img src="{%if person.image contains 'http'%}{{person.image}}{%else%}{{site.data.images.directory | relative_url }}/{%if person.image and person.image != "" %}{{person.image}}{% else %}{{site.data.images.person_placeholder}}{%endif%}{%endif%}" alt="Image of {{person.title}}">
@@ -24,4 +25,5 @@ permalink: /people
   </a>
 </div>
 {%endunless%}
+</div>
 {% endfor %}

@@ -43,11 +43,14 @@ body: |
   collaboration with the [University of
   Birmingham](https://www.birmingham.ac.uk/schools/law/index.aspx)
 partners:
-  - link: https://www.cst.cam.ac.uk/news/new-data-trusts-initiative-will-spearhead-community-focused-data-governance
+  - title: University of Cambridge
+    link: https://www.cst.cam.ac.uk/news/new-data-trusts-initiative-will-spearhead-community-focused-data-governance
     image: /assets/images/university-of-cambridge.png
-  - image: /assets/images/
+  - title: University of Birmingham
+    image: /assets/images/Birmingham-Uni.webp
     link: https://www.birmingham.ac.uk/index.aspx
-  - image: /assets/images/pjmf.png
+  - title: Patrick J. McGovern Foundation
+    image: /assets/images/pjmf.png
     link: https://www.mcgovern.org
 grid:
   - title: Our Research

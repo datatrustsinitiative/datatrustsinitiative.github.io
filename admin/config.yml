@@ -1,6 +1,6 @@
 backend:
   name: github # git-gateway
-  repo: mlatcl/mlatcl.github.io
+  repo: datatrustsinitiative/datatrustsinitiative.github.io
   branch: main # Branch to update (optional; defaults to master)
 
 local_backend: true

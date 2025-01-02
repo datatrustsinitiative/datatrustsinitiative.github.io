@@ -38,7 +38,7 @@ author:
 firstpage: 236
 lastpage: 252
 layout: article
-published: 2019-10-01
+date: 2019-10-01
 journal: International Data Privacy Law
 volume: 9
 number: 4
