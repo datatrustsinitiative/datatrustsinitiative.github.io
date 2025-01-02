@@ -49,7 +49,7 @@ underpin data sharing activities:
   rights that are set out in law (or the beneficial interest in those
   rights) and pool these into an organisation in which trustees would
   exercise the data rights conferred by the law on behalf of the trust’s
-  beneficiaries. ** **
+  beneficiaries. 
 
 This blog post takes excerpts from the report to summarise how data
 trusts contribute to this landscape of data stewardship –
@@ -85,8 +85,8 @@ express their agency and influence data use by defining their vision.
 Current legal frameworks offer few opportunities to enable group action
 in this way. 
 
-**Data trusts have the flexibility to respond to emerging areas of need,
-where rights and responsibilities might not yet be well-defined: **Trust
+Data trusts have the flexibility to respond to emerging areas of need,
+where rights and responsibilities might not yet be well-defined: Trust
 law has ancient roots. The fiduciary responsibilities at its core can be
 traded to practices established in Roman law, and the idea of a ‘trust’
 has its origins in medieval England. Over this long history, the Courts
