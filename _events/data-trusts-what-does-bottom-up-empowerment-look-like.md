@@ -6,6 +6,7 @@ featured_image: /assets/images/unsplash-image-dlVrk8WNWlw.jpg
 start: 2022-03-22 14:30 GMT
 end: 2022-03-22 16:00 GMT
 youtube: bw6riuKDYDs
+date: 2022-03-22
 people:
 - rachel-coldicutt
 - simon-burall
